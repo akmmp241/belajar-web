@@ -1,0 +1,15 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "Fira Code",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontLigatures": true,
+    "editor.matchBrackets": "always",
+    "window.zoomLevel": -0.5,
+    "editor.fontSize": 15,
+    "files.autoSave": "off",
+    "open-in-browser.default": "firefox",
+    "bracketPairColorizer.colorMode": "Independent"
+}

@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+    background-image: url(index3.jpeg);
+    background-repeat: no-repeat;
+    background-position: top left center;
+
+    /* background: white url(index3.jpeg) no-repeat top center */
+}
